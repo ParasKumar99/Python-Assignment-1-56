@@ -1,0 +1,1 @@
+print("Welcome to Paras's world\nThis is my assignment\nThank You")
